@@ -8,7 +8,8 @@
 
 | *2020* | Presentation files/links | Venue |
 |--------|--------------------------|-------|
-| Sep 30 | *DISCUSSION - A Few Useful Things to Know about ML* | \<MW-ML-G\> |
+| Nov 18 | *The 100 Page Machine Learning Book* [PDF](mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pdf), [PPTX](mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pptx) | \<MW-ML-G\> |
+| Sep 30 | *DISCUSSION - A Few Useful Things to Know about ML* [PDF](mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pdf), [PPTX](mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pptx), [Paper](mw-devs-ml-grp/2020-09-30/cacm12.pdf) | \<MW-ML-G\> |
 | Sep 17 | *A Taste of Supervised Learning* | \<Dell\> |
 | Sep 02 | *Developing a Simple Reinforcement Learning Program in Python* [PDF](mw-devs-ml-grp/2020-09-02/simple-rl-glue-app.pdf), [PPTX](mw-devs-ml-grp/2020-09-02/simple-rl-glue-app.pptx) | \<MW-ML-G\> |
 | Aug 19 | *DISCUSSION - Can GPT-3 Make Analogies?* [Link](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446) | \<MW-ML-G\> |
