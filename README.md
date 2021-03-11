@@ -10,6 +10,7 @@
 |--------|--------------------------|-------|
 | Mar 03 | *Introducing Clustering Algorithms* [PDF](mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pdf), [PPTX](mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pptx) | \<MW-ML-G\> |
 | Feb 17 | *Introducing Unsupervised Learning* [PDF](mw-devs-ml-grp/2021-02-17/intro-unsupervised-learning.pdf), [PPTX](mw-devs-ml-grp/2021-02-17/intro-unsupervised-learning.pptx) | \<MW-ML-G\> |
+| Jan 13 | *Anatomy of a Learning Algorithm* [PDF](mw-devs-ml-dell/2021-01-13/Anatomy-of-a-Learning-Algorithm.pdf), [PPTX](mw-devs-ml-dell/2021-01-13/Anatomy-of-a-Learning-Algorithm.pptx), [Folder](mw-devs-ml-dell/2021-01-13/) | \<Dell\> |
 
 | *2020* | Presentation files/links | Venue |
 |--------|--------------------------|-------|
