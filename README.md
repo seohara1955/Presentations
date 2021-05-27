@@ -8,7 +8,7 @@
 
 | *2021* | Presentation files/links | Venue |
 |--------|--------------------------|-------|
-| May 12 | *Introducing Retrieval Algorithms* [PPTX](mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pptx), [PDF](hmw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pdf) | \<MW-ML-G\> |
+| May 12 | *Introducing Retrieval Algorithms* [PPTX](mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pptx), [PDF](mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pdf) | \<MW-ML-G\> |
 | Apr 28 | *Introducing Recommendation Systems* [PPTX](mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pptx) [PDF](mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pdf) | \<MW-ML-G\> |
 | Mar 17 | *Gaussian Mixture Models* [PPTX](mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pptx) [PDF](mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pdf)| \<MW-ML-G\> |
 | Mar 03 | *Introducing Clustering Algorithms* [PDF](mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pdf), [PPTX](mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pptx) | \<MW-ML-G\> |
