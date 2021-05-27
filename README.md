@@ -8,6 +8,9 @@
 
 | *2021* | Presentation files/links | Venue |
 |--------|--------------------------|-------|
+| May 12 | *Introducing Retrieval Algorithms* [PPTX](mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pptx), [PDF](hmw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pdf) | \<MW-ML-G\> |
+| Apr 28 | *Introducing Recommendation Systems* [PPTX](mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pptx) [PDF](mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pdf) | \<MW-ML-G\> |
+| Mar 17 | *Gaussian Mixture Models* [PPTX](mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pptx) [PDF](mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pdf)| \<MW-ML-G\> |
 | Mar 03 | *Introducing Clustering Algorithms* [PDF](mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pdf), [PPTX](mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pptx) | \<MW-ML-G\> |
 | Feb 17 | *Introducing Unsupervised Learning* [PDF](mw-devs-ml-grp/2021-02-17/intro-unsupervised-learning.pdf), [PPTX](mw-devs-ml-grp/2021-02-17/intro-unsupervised-learning.pptx) | \<MW-ML-G\> |
 | Jan 13 | *Anatomy of a Learning Algorithm* [PDF](mw-devs-ml-dell/2021-01-13/Anatomy-of-a-Learning-Algorithm.pdf), [PPTX](mw-devs-ml-dell/2021-01-13/Anatomy-of-a-Learning-Algorithm.pptx), [Folder](mw-devs-ml-dell/2021-01-13/) | \<Dell\> |
