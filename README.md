@@ -8,6 +8,7 @@
 
 | *2021* | Presentation files/links | Venue |
 |--------|--------------------------|-------|
+| Jun 02 | *Innateness, Inductive Bias and AI (Work in Progress)* [PPTX](mw-defs-ml-grp/2021-06-02/innateness_inductive_bias_ai.pptx), [PDF](mw-defs-ml-grp/2021-06-02/innateness_inductive_bias_ai.pdf) | \<MW-ML-G\> |
 | May 12 | *Introducing Retrieval Algorithms* [PPTX](mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pptx), [PDF](mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pdf) | \<MW-ML-G\> |
 | Apr 28 | *Introducing Recommendation Systems* [PPTX](mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pptx) [PDF](mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pdf) | \<MW-ML-G\> |
 | Mar 17 | *Gaussian Mixture Models* [PPTX](mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pptx) [PDF](mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pdf)| \<MW-ML-G\> |
